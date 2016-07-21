@@ -1,0 +1,14 @@
+app/design/adminhtml/default/default/template/optimiseweb/redirects/system/config/fieldset/hint.phtml app/design/adminhtml/default/default/template/optimiseweb/redirects/system/config/fieldset/hint.phtml
+app/etc/modules/Optimiseweb_Redirects.xml app/etc/modules/Optimiseweb_Redirects.xml
+app/code/community/Optimiseweb/Redirects/Helper/Data.php app/code/community/Optimiseweb/Redirects/Helper/Data.php
+app/code/community/Optimiseweb/Redirects/Model/Redirector.php app/code/community/Optimiseweb/Redirects/Model/Redirector.php
+app/code/community/Optimiseweb/Redirects/Block/Adminhtml/System/Config/Fieldset/Hint.php app/code/community/Optimiseweb/Redirects/Block/Adminhtml/System/Config/Fieldset/Hint.php
+app/code/community/Optimiseweb/Redirects/Block/System/Config/Backend/Download1.php app/code/community/Optimiseweb/Redirects/Block/System/Config/Backend/Download1.php
+app/code/community/Optimiseweb/Redirects/Block/System/Config/Backend/Downloadquerystringfile.php app/code/community/Optimiseweb/Redirects/Block/System/Config/Backend/Downloadquerystringfile.php
+app/code/community/Optimiseweb/Redirects/Block/System/Config/Backend/Download.php app/code/community/Optimiseweb/Redirects/Block/System/Config/Backend/Download.php
+app/code/community/Optimiseweb/Redirects/etc/config.xml app/code/community/Optimiseweb/Redirects/etc/config.xml
+app/code/community/Optimiseweb/Redirects/etc/system.xml app/code/community/Optimiseweb/Redirects/etc/system.xml
+app/code/community/Optimiseweb/Redirects/etc/adminhtml.xml app/code/community/Optimiseweb/Redirects/etc/adminhtml.xml
+app/code/community/Optimiseweb/Redirects/doc/Readme.html app/code/community/Optimiseweb/Redirects/doc/Readme.html
+app/locale/en_US/Optimiseweb_Redirects.csv app/locale/en_US/Optimiseweb_Redirects.csv
+composer.json composer.json
