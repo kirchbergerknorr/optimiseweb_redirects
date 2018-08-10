@@ -11,4 +11,3 @@ app/code/community/Optimiseweb/Redirects/etc/system.xml app/code/community/Optim
 app/code/community/Optimiseweb/Redirects/etc/adminhtml.xml app/code/community/Optimiseweb/Redirects/etc/adminhtml.xml
 app/code/community/Optimiseweb/Redirects/doc/Readme.html app/code/community/Optimiseweb/Redirects/doc/Readme.html
 app/locale/en_US/Optimiseweb_Redirects.csv app/locale/en_US/Optimiseweb_Redirects.csv
-composer.json composer.json
